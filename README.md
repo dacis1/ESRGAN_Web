@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Image/ntt.jpg" height=120>
+  <img src="Image/nn_real_plus.png" height=120>
 </p>
 ## 📧 Contact
 
