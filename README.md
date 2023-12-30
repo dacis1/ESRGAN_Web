@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Image/logo-dai-hoc-nguyen-tat-thanh-inkythuatso-21-14-50-27.jpeg" height=120>
+  <img src="Image/ntt.jpg" height=120>
 </p>
 ## 📧 Contact
 
